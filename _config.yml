@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Kriti Sehgal 
+title: Kelly Smalenberger
 
 # Your name to show in the footer
-author: Kriti Sehgal
+author: Kelly Smalenberger
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -26,7 +26,7 @@ navbar-links:
   #- Evaluations: "teaching_evaluations"
   Research: "research"
   Activities: "activities"
-  Gallery: "gallery"
+  #Gallery: "gallery"
   #Author's home: "https://deanattali.com"
 
 ################
