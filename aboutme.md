@@ -7,7 +7,8 @@ title: About me
 
 
 
- ### Preceptor of Data Science,  University of Chicago
+### Preceptor of Data Science  
+University of Chicago (2024 - present)
 Responsible for developing and implementing curricular content and assessments for data science, mathematics, and introductory Python courses at UChicago and partnering institutions.
 
 **Committee Service**
