@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Kriti Sehgal"
-subtitle: "Preceptor in Data Science"
+title: "Kelly Smalenberger"
+subtitle: "Preceptor of Data Science"
 permalink: /
 show-avatar: false
 ---
