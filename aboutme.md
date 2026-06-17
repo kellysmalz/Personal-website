@@ -6,18 +6,12 @@ title: About me
 ## Professional Experience:
 
 
-- **University of Chicago, Chicago Illinois**: Preceptor of Data Science
-- Responsible for developing and implementing curricular content and assessments for data science, mathematics, and introductory Python courses at UChicago and partnering institutions.
-- Committee Service:
-  - 2025-2026 Graduate Admissions Review Committee, Data4All Administrator and Lead Instructor, Data Science for Social Impact Instructor and Mentor
-  - 2024-2026 Textbook Reviewer and Author, Data Science for Social Impact Instructor and Mentor
 
- ### University of Chicago,  Preceptor of Data Science
+ ### Preceptor of Data Science,  University of Chicago
 Responsible for developing and implementing curricular content and assessments for data science, mathematics, and introductory Python courses at UChicago and partnering institutions.
-
 **Committee Service**
-- **2025–2026:** Graduate Admissions Review Committee; Data4All Administrator and Lead Instructor; Data Science for Social Impact Instructor and Mentor
-- **2024–2026:** Textbook Reviewer and Author; Data Science for Social Impact Instructor and Mentor
+- **2025–2026:** Textbook Reviewer and Author; Graduate Admissions Review Committee; Data4All Administrator and Lead Instructor; Data Science for Social Impact Instructor and Mentor
+- **2024–2025:** Textbook Reviewer and Author; Data Science for Social Impact Instructor and Mentor
 
 - **Curriculum Development**:
    - Co-authoring and editing University of Chicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank">textbook</a> for introductory data science course sequence: Data 118 and Data 119 (under development). Some of my work includes chapters on Neural Networks and Deep Learning, Introduction to Machine Learning, and DataFrames (in collaboration with Jesse London- Software Engineer, Data Science Institute)
