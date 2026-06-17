@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-### Professional Experience:
+## Professional Experience:
 
 
 - **University of Chicago, Chicago Illinois**: Preceptor of Data Science
@@ -12,7 +12,7 @@ title: About me
   - 2025-2026 Graduate Admissions Review Committee, Data4All Administrator and Lead Instructor, Data Science for Social Impact Instructor and Mentor
   - 2024-2026 Textbook Reviewer and Author, Data Science for Social Impact Instructor and Mentor
 
-- #### University of Chicago,  Preceptor of Data Science
+ ### University of Chicago,  Preceptor of Data Science
 Responsible for developing and implementing curricular content and assessments for data science, mathematics, and introductory Python courses at UChicago and partnering institutions.
 
 **Committee Service**
