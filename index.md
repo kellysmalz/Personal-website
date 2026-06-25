@@ -57,18 +57,15 @@ show-avatar: false
     </p>
     <p>
       
-      While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at OSU and by participating in Data Science bootcamps and workshops hosted by the
+      I have always been a teacher at heart, beginning While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at OSU and by participating in Data Science bootcamps and workshops hosted by the
       <a href="https://www.erdosinstitute.org/" target="_blank">Erdős Institute</a>.
       This exploration, combined with my passion for teaching, led me to my current role.
     </p>
   </div>
 </div>
 
-#<p>
-#  - Please find my C.V. <a href="/assets/files/Sehgal_CV.pdf" target="_blank">here</a> (updated November 2025).
-# </p>
 
-<p>You can contact me at:</p>
+<p>Feel free to contact me at:</p>
 <ul>
   <li><strong>UChicago:</strong> ksmalenberger@uchicago.edu</li>
   <li><strong>Personal:</strong> kellysmalenberger@gmail.com</li>
