@@ -46,7 +46,7 @@ show-avatar: false
 <h2 style="text-align: center;">Welcome to my homepage!</h2>
 
 <div class="about-container">
-  <img class="about-image" src="/assets/img/Kriti.JPG" alt="Picture of Kriti Sehgal">
+  <img class="about-image" src="/assets/img/KSmalenberger.jpg" alt="Kelly">
 
   <div class="about-text">
     <p>
@@ -70,7 +70,6 @@ show-avatar: false
 
 <p>You can contact me at:</p>
 <ul>
-  <li><strong>UChicago-related:</strong> ksehgal AT uchicago DOT edu</li>
-  <li><strong>CCC-related:</strong> ksehgal AT ccc DOT edu</li>
-  <li><strong>All others:</strong> kritisehgal01 AT gmail DOT com</li>
+  <li><strong>UChicago:</strong> ksmalenberger@uchicago.edu</li>
+  <li><strong>Personal:</strong> kellysmalenberger@gmail.com</li>
 </ul>
