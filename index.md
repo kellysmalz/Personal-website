@@ -50,13 +50,13 @@ show-avatar: false
 
   <div class="about-text">
     <p>
-      Thank you for your interest! I am currently a Preceptor in Data Science at the
+      Thank you for visiting! I am currently a Preceptor of Data Science at the
       <a href="https://datascience.uchicago.edu/" target="_blank">Data Science Institute (DSI)</a>
       at the University of Chicago. My position is a collaboration between the
-      <a href="https://www.uchicago.edu/en" target="_blank">University of Chicago</a> and the
-      <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>.
+      <a href="https://www.uchicago.edu/en" target="_blank">University of Chicago</a> and partnering institutions including the <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>.
     </p>
     <p>
+      
       While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at OSU and by participating in Data Science bootcamps and workshops hosted by the
       <a href="https://www.erdosinstitute.org/" target="_blank">Erdős Institute</a>.
       This exploration, combined with my passion for teaching, led me to my current role.
@@ -64,9 +64,9 @@ show-avatar: false
   </div>
 </div>
 
-<p>
-  - Please find my C.V. <a href="/assets/files/Sehgal_CV.pdf" target="_blank">here</a> (updated November 2025).
-</p>
+#<p>
+#  - Please find my C.V. <a href="/assets/files/Sehgal_CV.pdf" target="_blank">here</a> (updated November 2025).
+# </p>
 
 <p>You can contact me at:</p>
 <ul>
