@@ -30,7 +30,7 @@ Responsible for developing and implementing curricular content and assessments f
 
 - **Education**:
   - PhD in Mathematics (2020) from <a href="https://math.charlotte.edu/" target="_blank">The University of North Carolina Charlotte</a>, under the supervision of <a href="https://math.charlotte.edu/directory/xingjie-helen-li/" target="_blank">Dr Helen (XingJie)Li </a>. 
-  - Master's in Mathematics (2018) from <a href="https://math.charlotte.edu/" target="_blank">The University of North Carolina Charlotte</a>
+  - Master's in Mathematics (2017) from <a href="https://math.charlotte.edu/" target="_blank">The University of North Carolina Charlotte</a>
   - B.A. in Mathematics and Secondary Education (2011) from <a href="https://www.neiu.edu/academics/colleges-departments/arts-and-sciences/departments/mathematics" target="_blank">Northeastern Illinois University</a>
 
  - **Certificates**:

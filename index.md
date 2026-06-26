@@ -56,10 +56,7 @@ show-avatar: false
       <a href="https://www.uchicago.edu/en" target="_blank">University of Chicago</a> and partnering institutions including the <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>.
     </p>
     <p>
-      
-      I have always been a teacher at heart, beginning While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at OSU and by participating in Data Science bootcamps and workshops hosted by the
-      <a href="https://www.erdosinstitute.org/" target="_blank">Erdős Institute</a>.
-      This exploration, combined with my passion for teaching, led me to my current role.
+      My path to academia was not linear. After attending several undergraduate institutions, I completed my B.A. in Mathematics and Secondary Education at Northeastern Illinois University, followed by an M.S. and Ph.D. in Applied Mathematics from the University of North Carolina at Charlotte. My teaching has spanned mathematics, statistics, and data science across a wide range of institutional contexts — from community colleges to private and public R1 universities. I am passionate about inclusive, hands-on instruction and helping students develop not just technical skills, but genuine confidence in their ability to reason through complex problems.
     </p>
   </div>
 </div>
